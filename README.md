@@ -11,7 +11,7 @@ I am a developer with a deep interest in artificial intelligence and machine lea
 
 - 📫 How to reach me: jmmaidana2@gmail.com
 
-- 😄 Hobbies: Basquetball and videogames
+- 😄 Hobbies: Basketball and videogames
 
 
 <p align="left"> 
