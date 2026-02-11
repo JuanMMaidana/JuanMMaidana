@@ -7,7 +7,7 @@ I am a developer with a deep interest in artificial intelligence and machine lea
 
 🔭 Currently learning and applying Deep Learning concepts to solve real-world problems, working on projects related to computer vision and more traditional ML models.
 
-- 🌱 I’m currently studing at Universidad Católica del Uruguay
+- 🌱 Software Engineer
 
 - 📫 How to reach me: jmmaidana2@gmail.com
 
