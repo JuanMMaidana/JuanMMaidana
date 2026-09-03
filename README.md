@@ -1,6 +1,6 @@
 # 👨‍💻🏀 Juan Martin Maidana
 
-**`Machine Learning Enthusiast | Full-Stack Developer`**
+**`Machine Learning Enthusiast | Full-Stack Engineer`**
 
 
 I am a developer with a deep interest in artificial intelligence and machine learning. I combine my web development expertise with AI projects, ranging from experiments with transfer learning to practical applications involving large datasets. I am continuously learning and enjoy working on solutions that blend innovative technology with real-world challenges.
